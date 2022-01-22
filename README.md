@@ -1,1 +1,2 @@
-# colorpalettegenerator
+# Unity Color Palette Generator
+
